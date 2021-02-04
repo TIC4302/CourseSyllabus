@@ -17,13 +17,13 @@ Project and Assignment – 100
 |    Syllabus   |     Source    |
 | ------------- | ------------- |
 | **Part 1: Introduction to DevOps (Week 1 – 3)**  |   |
-| What is DevOps?  |   |
-| DevOps principles – Culture, Automation, Measurement and Sharing (CAMS) | |
-| DevOps and software development lifecycle (SDLC) |  |
-| Continuous Integration (CI) and Continuous Deployment (CD) |  |
+| [What is DevOps?](material/Week-2-DevOps.pdf)  |   |
+| [DevOps principles – Culture, Automation, Measurement and Sharing (CAMS)](material/Week-2-DevOps.pdf) | |
+| [DevOps and software development lifecycle (SDLC)](material/Week-3-CI_CD.pdf) |  |
+| [Continuous Integration (CI) and Continuous Deployment (CD)](material/Week-3-CI_CD.pdf) |  |
 | | |
 | **Part 2: DevOps for Software Development with Open-Source Tools (Week 4 – 7)** |   | 
-| Open source is essential for DevOps-based software development |   |
+| [Open source is essential for DevOps-based software development](material/Week-4-DevOps-OpenSource.pdf) |   |
 | Compliance requirements (automation, unit testing, ...) at DevOps scale |   |
 | Working with development environment |   |
 | Platform/application definition and configuration management |   |
