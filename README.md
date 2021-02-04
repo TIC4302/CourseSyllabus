@@ -44,11 +44,14 @@ Project and Assignment – 100
 ## Project Assignment
 
 ### Project Timeline
-- Week 1-2	: Topic and group member selection (200 
-- Week 3-4	: Planning and task definition/assignment 
-- Week 5-7	: Development phase and demo 
-- Week 8-10 	: Security Testing and Analysis 
-- Week 11-13: Fixing the security issue and Final report
+
+|    Week   |     Tasks   | Assignment |
+| --------- | ----------  | ---------- |
+| Week 1-2  | Topic and group member selection | None |
+| Week 3-4  | Planning and task definition/assignment | [Project Design Documentation](assignment/project-design-assignment.md) | 
+| Week 5-7  | Development phase and demo |
+| Week 8-10 | Security Testing and Analysis | 
+| Week 11-13| Fixing the security issue and Final report |
 
 ### Project Grading
 

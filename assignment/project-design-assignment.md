@@ -1,0 +1,24 @@
+## Assignment 1 - Project Design Documentation Assignment
+
+### Assignment
+
+Create the design document of your project with this following guidelines:
+- Download or clone the assignment repository (will be distributed later)
+- Create "doc" directory
+- Create file "README.md" inside "doc" directory
+- Write into the file your design documentation which contains:
+    - Your project name as the "First Header" of GitHub markdown
+    - These sections (Overview, Objective, Design, Feature, Implementation, 
+    Consideration) as "Second Header" of GitHub markdown
+    - More than 50 lines
+
+### Submission
+
+It will automatically submit your work when you make a push commit to the 
+assignment's repository.
+
+### Grading
+
+It will be automatically grading with "Pass" or "Failed" result. Currently, we 
+are not considering how many failed of your submission, but please make as 
+minimum as possible.
