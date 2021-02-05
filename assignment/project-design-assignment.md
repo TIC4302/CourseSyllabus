@@ -22,3 +22,13 @@ assignment's repository.
 It will be automatically grading with "Pass" or "Failed" result. Currently, we 
 are not considering how many failed of your submission, but please make as 
 minimum as possible.
+
+### Assignment URL
+
+- For "Student-Team-A": https://classroom.github.com/g/DtFLQV1T
+- For "Student-Team-B": https://classroom.github.com/g/0FpLr3QK
+- For "Student-Team-C": https://classroom.github.com/g/gfvRiMru
+- For "Student-Team-D": https://classroom.github.com/g/q4GFqTe_ 
+
+Please accept the invitation and mentioned your project team name. 
+For example, Project "Team-A" need to mention "Student-Team-A".
