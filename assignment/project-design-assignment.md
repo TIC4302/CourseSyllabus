@@ -32,3 +32,19 @@ minimum as possible.
 
 Please accept the invitation and mentioned your project team name. 
 For example, Project "Team-A" need to mention "Student-Team-A".
+
+Please follow these steps for the detail:
+
+#### Select your student ID
+
+![image](image/select-student-ID.png)
+
+#### Fill your Team Name, make sure it is exactly the same with your team
+
+![image](image/create-team.png)
+
+#### Accept the assigment
+
+![image](image/accept-assignment.png)
+
+
