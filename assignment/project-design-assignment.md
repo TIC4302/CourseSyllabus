@@ -30,20 +30,26 @@ minimum as possible.
 - For "Student-Team-C": https://classroom.github.com/g/gfvRiMru
 - For "Student-Team-D": https://classroom.github.com/g/q4GFqTe_ 
 
-Please accept the invitation and mentioned your project team name. 
-For example, Project "Team-A" need to mention "Student-Team-A".
+Please accept the invitation and mentioned your team name for your project (e.g., Team-A, Team-B). 
+For example, "Team-A" need to mention "Student-Team-A" (just add "Student-" in front of your team name).
 
 Please follow these steps for the detail:
 
 #### Select your student ID
 
+Select you ID from the list.
+
 ![image](image/select-student-ID.png)
 
-#### Fill your Team Name, make sure it is exactly the same with your team
+#### Fill your student team name
+
+Please make sure it is aligned with your project team name
 
 ![image](image/create-team.png)
 
 #### Accept the assigment
+
+After accepting the assignment, you can visit your student team's repository.
 
 ![image](image/accept-assignment.png)
 
