@@ -24,7 +24,8 @@ Project and Assignment – 100
 | | |
 | **Part 2: DevOps for Software Development with Open-Source Tools (Week 4 – 7)** |   | 
 | [Open source is essential for DevOps-based software development](material/Week-4-DevOps-OpenSource.pdf) |   |
-| Compliance requirements (automation, unit testing, ...) at DevOps scale |   |
+| [Compliance requirements (Introduction to Software Testing)](material/Week-5-Software-Testing.pdf) |   |
+| Automation requirements (Introduction to DevOps scale) |   |
 | Working with development environment |   |
 | Platform/application definition and configuration management |   |
 | | |
@@ -48,7 +49,7 @@ Project and Assignment – 100
 |    Week   |     Tasks   | Assignment |
 | --------- | ----------  | ---------- |
 | Week 1-2  | Topic and group member selection | None |
-| Week 3-4  | Planning and task definition/assignment | [Project Design Documentation](assignment/project-design-assignment.md) | 
+| Week 3-4  | Planning and task definition/assignment | [Project Design Documentation](assignment/project-design-assignment.md) [Feature-to-Issue](assignment/feature-to-issue-assignment.md) | 
 | Week 5-7  | Development phase and demo |
 | Week 8-10 | Security Testing and Analysis | 
 | Week 11-13| Fixing the security issue and Final report |
