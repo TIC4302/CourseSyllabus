@@ -49,12 +49,14 @@ Project and Assignment – 100
 |    Week   |     Tasks   | Assignment |
 | --------- | ----------  | ---------- |
 | Week 1-2  | Topic and group member selection | None |
-| Week 3-4  | Planning and task definition/assignment | [Project Design Documentation](assignment/project-design-assignment.md) [Feature-to-Issue](assignment/feature-to-issue-assignment.md) | 
+| Week 3-4  | Planning and task definition/assignment | 1 - [Project Design Documentation](assignment/project-design-assignment.md) 2 - [Feature-to-Issue](assignment/feature-to-issue-assignment.md) | 
 | Week 5-7  | Development phase and demo |
 | Week 8-10 | Security Testing and Analysis | 
 | Week 11-13| Fixing the security issue and Final report |
 
 ### Project Grading
+
+TBD
 
 ### Project Topics
 - CTF Platform with centralized/federated authentication (Team-A) 
