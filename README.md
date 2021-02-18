@@ -25,7 +25,7 @@ Project and Assignment – 100
 | **Part 2: DevOps for Software Development with Open-Source Tools (Week 4 – 7)** |   | 
 | [Open source is essential for DevOps-based software development](material/Week-4-DevOps-OpenSource.pdf) |   |
 | [Compliance requirements (Introduction to Software Testing)](material/Week-5-Software-Testing.pdf) |   |
-| Automation requirements (Introduction to DevOps scale) |   |
+| [Automation requirements (Introduction to DevOps scale)](material/Week-6-DevOps-Scaling.pdf) |   |
 | Working with development environment |   |
 | Platform/application definition and configuration management |   |
 | | |
@@ -49,14 +49,17 @@ Project and Assignment – 100
 |    Week   |     Tasks   | Assignment |
 | --------- | ----------  | ---------- |
 | Week 1-2  | Topic and group member selection | None |
-| Week 3-4  | Planning and task definition/assignment | 1 - [Project Design Documentation](assignment/project-design-assignment.md) 2 - [Feature-to-Issue](assignment/feature-to-issue-assignment.md) | 
-| Week 5-7  | Development phase and demo |
+| Week 3-4  | Planning and task definition/assignment | [Project Design Documentation](assignment/project-design-assignment.md) </br> [Feature-to-Issue](assignment/feature-to-issue-assignment.md) | 
+| Week 5-7  | Development phase and demo | [Testing Plan](assignment/testing-plan-assignment.md) </br> [Project Development Progress](assignment/project-development-assignment.md) |
 | Week 8-10 | Security Testing and Analysis | 
 | Week 11-13| Fixing the security issue and Final report |
 
-### Project Grading
+### Project/Assignment Grading
 
-TBD
+Final Grade = Average from (Pass/Fail) Assignment x Normalized Factor
+
+- Pass = 100, Failed = 10
+- Normalized factor = TBD (peer review, team performance, number of commits/LOC,...)
 
 ### Project Topics
 - CTF Platform with centralized/federated authentication (Team-A) 
@@ -65,3 +68,7 @@ TBD
 - Email Bot to Generate Email-related Activity (Team-D)
 
 ### Project Members
+[Team-A](https://github.com/orgs/TIC4302/teams/team-a)  
+[Team-B](https://github.com/orgs/TIC4302/teams/team-b)  
+[Team-C](https://github.com/orgs/TIC4302/teams/team-c)  
+[Team-D](https://github.com/orgs/TIC4302/teams/team-d)  
