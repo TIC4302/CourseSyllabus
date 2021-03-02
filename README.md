@@ -68,7 +68,41 @@ Final Grade = Average from (Pass/Fail) Assignment x Normalized Factor
 - Email Bot to Generate Email-related Activity (Team-D)
 
 ### Project Members
+
 [Team-A](https://github.com/orgs/TIC4302/teams/team-a)  
-[Team-B](https://github.com/orgs/TIC4302/teams/team-b)  
+|     Name   | Matric Id | Github Username| Email |
+| ----------  | ---------- |---------|-----|
+|Clinton Chen Chong Yuan| A0177755M | [E0260261](https://github.com/E0260261)|e0260261@u.nus.edu|
+| Eunice Kwang Ya Ting | A0177715W | [Eunicekwang](https://github.com/Eunicekwang)| e0260221@u.nus.edu |
+|	Ng Song Wen, Marcus | A0177692M |[marcus-ng-nus](https://github.com/marcus-ng-nus) | e0260198@u.nus.edu |
+|Sng Tee Kiat Remus | A0177723X | [e0260229](https://github.com/sngtk) | e0260229@u.nus.edu |
+
+<br>
+
+[Team-B](https://github.com/orgs/TIC4302/teams/team-b) 
+|     Name   | Matric Id | Github Username| Email |
+| ----------  | ---------- |---------| ---------- |
+| Jon Koo Yun Heng |A0177762R |[jkooyh08](https://github.com/jkooyh08) |e0260268@u.nus.edu |
+| Ho Jun Rong | A0177728M | [StenleyHJR](https://github.com/StenleyHJR)| e0260234@u.nus.edu |
+| Yap Choon Hock | A0177717R | [derrickyap](https://github.com/derrickyap)| e0260223@u.nus.edu |
+| Koh Kok Suan | A0177752U | [kohks](https://github.com/kohks) | e0260258@u.nus.edu |
+
+<br> 
+
 [Team-C](https://github.com/orgs/TIC4302/teams/team-c)  
+|     Name   | Matric Id | Github Username| Email |
+| ----------  | ---------- |---------| ---------- |
+| Xu Chongjian | A0177747L | [e0260253](https://github.com/e0260253)| e0260253@u.nus.edu |
+| Liu Juntong | A0177753R | [Juntong31](https://github.com/Juntong31)| e0260259@u.nus.edu |
+| Tan Guan Hao | A0177967A | [Casopher](https://github.com/Casopher) | e0263959@u.nus.edu |
+| Ernest Voon Chin Siang | A0177738L | [ernestvoon](https://github.com/ernestvoon) | e0260244@u.nus.edu |
+
+
+<br>
+
 [Team-D](https://github.com/orgs/TIC4302/teams/team-d)  
+|     Name   | Matric Id | Github Username| Email |
+| ----------  | ---------- |---------| ---------- |
+| Desmond Yew Wen Yang | A0177731Y | [e0260237](https://github.com/e0260237)| e0260237@u.nus.edu |
+| Png Chengxiang | A0177741X | [superdupercat3](https://github.com/superdupercat3) | e0260247@u.nus.edu |
+| Tanujah Swaminathan | A0177714X | [tanujah](https://github.com/tanujah) | e0260220@u.nus.edu | 
