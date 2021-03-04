@@ -1,5 +1,10 @@
 # TIC4302 - Course Syllabus
 
+## Instructors
+
+Principal Instructor : [Dr. Aris Cahyadi Risdianto](https://github.com/ariscahyadi)  
+Co-Principal Instructor : [Sristi Lakshmi Sravana Kumar](https://github.com/sristisravan)
+
 ## Overview 
 This module is one of the two modules where students get to practice information security concepts learned in the classroom with more hands-on experience. Students work in a group to learn, discuss, develop, analyze, and fix the security of applications. This module is aligned with an emerging paradigm of DevSecOps. 
 
@@ -26,8 +31,8 @@ Project and Assignment – 100
 | [Open source is essential for DevOps-based software development](material/Week-4-DevOps-OpenSource.pdf) |   |
 | [Compliance requirements (Introduction to Software Testing)](material/Week-5-Software-Testing.pdf) |   |
 | [Automation requirements (Introduction to DevOps scale)](material/Week-6-DevOps-Scaling.pdf) |   |
-| Working with development environment |   |
-| Platform/application definition and configuration management |   |
+| [Working with development environment](material/Week-7-Dev-Env-Config-Mgmt.pdf) |   |
+| [Software configuration management](material/Week-7-Dev-Env-Config-Mgmt.pdf) |   |
 | | |
 | **Part 3: Introduction to Platform/Application Security (Week 8 – 10)** |   |
 | What is Pentesting and vulnerability assessment? |   |
@@ -70,39 +75,39 @@ Final Grade = Average from (Pass/Fail) Assignment x Normalized Factor
 ### Project Members
 
 [Team-A](https://github.com/orgs/TIC4302/teams/team-a)  
-|     Name   | Matric Id | Github Username| Email |
-| ----------  | ---------- |---------|-----|
-|Clinton Chen Chong Yuan| A0177755M | [E0260261](https://github.com/E0260261)|e0260261@u.nus.edu|
-| Eunice Kwang Ya Ting | A0177715W | [Eunicekwang](https://github.com/Eunicekwang)| e0260221@u.nus.edu |
-|	Ng Song Wen, Marcus | A0177692M |[marcus-ng-nus](https://github.com/marcus-ng-nus) | e0260198@u.nus.edu |
-|Sng Tee Kiat Remus | A0177723X | [e0260229](https://github.com/sngtk) | e0260229@u.nus.edu |
+|     Name   | Github Username| 
+| ----------  | ----- |
+|Clinton Chen Chong Yuan| [E0260261](https://github.com/E0260261)|
+| Eunice Kwang Ya Ting | [Eunicekwang](https://github.com/Eunicekwang)|
+|	Ng Song Wen, Marcus |[marcus-ng-nus](https://github.com/marcus-ng-nus) |
+|Sng Tee Kiat Remus | [e0260229](https://github.com/sngtk) |
 
 <br>
 
 [Team-B](https://github.com/orgs/TIC4302/teams/team-b) 
-|     Name   | Matric Id | Github Username| Email |
-| ----------  | ---------- |---------| ---------- |
-| Jon Koo Yun Heng |A0177762R |[jkooyh08](https://github.com/jkooyh08) |e0260268@u.nus.edu |
-| Ho Jun Rong | A0177728M | [StenleyHJR](https://github.com/StenleyHJR)| e0260234@u.nus.edu |
-| Yap Choon Hock | A0177717R | [derrickyap](https://github.com/derrickyap)| e0260223@u.nus.edu |
-| Koh Kok Suan | A0177752U | [kohks](https://github.com/kohks) | e0260258@u.nus.edu |
+|     Name   | Github Username |
+| ----------  | ---------- |
+| Jon Koo Yun Heng |[jkooyh08](https://github.com/jkooyh08) |
+| Ho Jun Rong | [StenleyHJR](https://github.com/StenleyHJR)|
+| Yap Choon Hock | [derrickyap](https://github.com/derrickyap)|
+| Koh Kok Suan | [kohks](https://github.com/kohks) |
 
 <br> 
 
 [Team-C](https://github.com/orgs/TIC4302/teams/team-c)  
-|     Name   | Matric Id | Github Username| Email |
-| ----------  | ---------- |---------| ---------- |
-| Xu Chongjian | A0177747L | [e0260253](https://github.com/e0260253)| e0260253@u.nus.edu |
-| Liu Juntong | A0177753R | [Juntong31](https://github.com/Juntong31)| e0260259@u.nus.edu |
-| Tan Guan Hao | A0177967A | [Casopher](https://github.com/Casopher) | e0263959@u.nus.edu |
-| Ernest Voon Chin Siang | A0177738L | [ernestvoon](https://github.com/ernestvoon) | e0260244@u.nus.edu |
+|     Name   | Github Username|
+| ----------  | ---------- |
+| Xu Chongjian | [e0260253](https://github.com/e0260253) |
+| Liu Juntong | [Juntong31](https://github.com/Juntong31) |
+| Tan Guan Hao | [Casopher](https://github.com/Casopher) |
+| Ernest Voon Chin Siang | [ernestvoon](https://github.com/ernestvoon) |
 
 
 <br>
 
 [Team-D](https://github.com/orgs/TIC4302/teams/team-d)  
-|     Name   | Matric Id | Github Username| Email |
-| ----------  | ---------- |---------| ---------- |
-| Desmond Yew Wen Yang | A0177731Y | [e0260237](https://github.com/e0260237)| e0260237@u.nus.edu |
-| Png Chengxiang | A0177741X | [superdupercat3](https://github.com/superdupercat3) | e0260247@u.nus.edu |
-| Tanujah Swaminathan | A0177714X | [tanujah](https://github.com/tanujah) | e0260220@u.nus.edu | 
+|     Name   | Github Username|
+| ----------  | ---------- |
+| Desmond Yew Wen Yang | [e0260237](https://github.com/e0260237) |
+| Png Chengxiang | [superdupercat3](https://github.com/superdupercat3) |
+| Tanujah Swaminathan | [tanujah](https://github.com/tanujah) |
