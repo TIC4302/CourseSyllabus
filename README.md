@@ -35,8 +35,8 @@ Project and Assignment – 100
 | [Software configuration management](material/Week-7-Dev-Env-Config-Mgmt.pdf) |   |
 | | |
 | **Part 3: Introduction to Platform/Application Security (Week 8 – 10)** |   |
-| What is Pentesting and vulnerability assessment? |   |
-| What is secure SDLC? |   |
+| [What is secure SDLC?](material/Week-8-Secure-SDLC.pdf) |   |
+| [What is Pentesting and vulnerability assessment?](material/Week-8-Pentesting.pdf) |   |
 | Open-source security and risk analysis |   |
 | DevSecOps Maturity Model (DSOMM) |   |
 | | |
