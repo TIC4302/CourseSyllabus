@@ -37,15 +37,15 @@ Project and Assignment – 100
 | **Part 3: Introduction to Platform/Application Security (Week 8 – 10)** |   |
 | [What is secure SDLC?](material/Week-8-Secure-SDLC.pdf) |   |
 | [What is Pentesting and vulnerability assessment?](material/Week-8-Pentesting.pdf) |   |
-| Open-source security and risk analysis |   |
-| DevSecOps Maturity Model (DSOMM) |   |
+| [Open-source security and risk analysis](material/Week-9-Open-Source-Security.pdf) |   |
+| Infrastructure as a Code (IaaC) and its security |   |
 | | |
 | **Part 4: Securing Platform/Application DevOps (Week 11 – 13)** |   |
-| Infrastructure as a Code (IaaC) and its security |   |
-| Securing open-source component (library and dependency) |   |
+| DevSecOps Maturity Model (DSOMM) |   |
 | Using tools of the trade to secure activities in CI/CD |   |
 | Embedding security as part of CI/CD pipeline |   |
 | SCA, SAST and DAST Techniques in CI/CD pipeline |   |
+| Securing open-source component (library and dependency) |   |
 
 ## Project Assignment
 
@@ -56,7 +56,7 @@ Project and Assignment – 100
 | Week 1-2  | Topic and group member selection | None |
 | Week 3-4  | Planning and task definition/assignment | [Project Design Documentation](assignment/project-design-assignment.md) </br> [Feature-to-Issue](assignment/feature-to-issue-assignment.md) | 
 | Week 5-7  | Development phase and demo | [Testing Plan](assignment/testing-plan-assignment.md) </br> [Project Development Progress](assignment/project-development-assignment.md) |
-| Week 8-10 | Security Testing and Analysis | [Code Security Review](assignment/code-security-review-assignment.md)
+| Week 8-10 | Security Testing and Analysis | [Code Security Review](assignment/code-security-review-assignment.md) </br> [Project Security Assessment](assignment/project-security-assessment-assignment.md) |
 | Week 11-13| Fixing the security issue and Final report |
 
 ### Project/Assignment Grading
