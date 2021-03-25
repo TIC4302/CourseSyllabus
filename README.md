@@ -38,7 +38,7 @@ Project and Assignment – 100
 | [What is secure SDLC?](material/Week-8-Secure-SDLC.pdf) |   |
 | [What is Pentesting and vulnerability assessment?](material/Week-8-Pentesting.pdf) |   |
 | [Open-source security and risk analysis](material/Week-9-Open-Source-Security.pdf) |   |
-| Infrastructure as a Code (IaaC) and its security |   |
+| [Infrastructure as a Code (IaC) and its security](material/Week-10-IaC-and-Security.pdf) |   |
 | | |
 | **Part 4: Securing Platform/Application DevOps (Week 11 – 13)** |   |
 | DevSecOps Maturity Model (DSOMM) |   |
