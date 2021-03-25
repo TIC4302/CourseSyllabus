@@ -56,7 +56,7 @@ Project and Assignment – 100
 | Week 1-2  | Topic and group member selection | None |
 | Week 3-4  | Planning and task definition/assignment | [Project Design Documentation](assignment/project-design-assignment.md) </br> [Feature-to-Issue](assignment/feature-to-issue-assignment.md) | 
 | Week 5-7  | Development phase and demo | [Testing Plan](assignment/testing-plan-assignment.md) </br> [Project Development Progress](assignment/project-development-assignment.md) |
-| Week 8-10 | Security Testing and Analysis | [Code Security Review](assignment/code-security-review-assignment.md) </br> [Project Security Assessment](assignment/project-security-assessment-assignment.md) |
+| Week 8-10 | Security Testing and Analysis | [Code Security Review](assignment/code-security-review-assignment.md) </br> [Project Security Assessment](assignment/project-security-assessment-assignment.md) </br> [Security-to-Issue](assignment/security-assessment-to-issue-assignment.md)|
 | Week 11-13| Fixing the security issue and Final report |
 
 ### Project/Assignment Grading
