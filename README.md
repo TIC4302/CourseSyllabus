@@ -41,7 +41,7 @@ Project and Assignment – 100
 | [Infrastructure as a Code (IaC) and its security](material/Week-10-IaC-and-Security.pdf) |   |
 | | |
 | **Part 4: Securing Platform/Application DevOps (Week 11 – 13)** |   |
-| DevSecOps Maturity Model (DSOMM) |   |
+| [Introduction to DevSecOps](material/Week-11-State-of-DevSecOps.pdf) |   |
 | Using tools of the trade to secure activities in CI/CD |   |
 | Embedding security as part of CI/CD pipeline |   |
 | SCA, SAST and DAST Techniques in CI/CD pipeline |   |
