@@ -42,9 +42,9 @@ Project and Assignment – 100
 | | |
 | **Part 4: Securing Platform/Application DevOps (Week 11 – 13)** |   |
 | [Introduction to DevSecOps](material/Week-11-State-of-DevSecOps.pdf) |   |
-| Using tools of the trade to secure activities in CI/CD |   |
-| Embedding security as part of CI/CD pipeline |   |
-| SCA, SAST and DAST Techniques in CI/CD pipeline |   |
+| [Using tools to trade the secure application-related activities](material/Week-11-State-of-DevSecOps.pdf) |   |
+| [Embedding security as part of CI/CD pipeline](material/Week-12-SAST-DAST-IAST-RASP.pdf) |   |
+| [SAST, DAST, IAST and RASP Techniques in CI/CD pipeline](material/Week-12-SAST-DAST-IAST-RASP.pdf) |   |
 | Securing open-source component (library and dependency) |   |
 
 ## Project Assignment
@@ -57,14 +57,26 @@ Project and Assignment – 100
 | Week 3-4  | Planning and task definition/assignment | [Project Design Documentation](assignment/project-design-assignment.md) </br> [Feature-to-Issue](assignment/feature-to-issue-assignment.md) | 
 | Week 5-7  | Development phase and demo | [Testing Plan](assignment/testing-plan-assignment.md) </br> [Project Development Progress](assignment/project-development-assignment.md) |
 | Week 8-10 | Security Testing and Analysis | [Code Security Review](assignment/code-security-review-assignment.md) </br> [Project Security Assessment](assignment/project-security-assessment-assignment.md) </br> [Security-to-Issue](assignment/security-assessment-to-issue-assignment.md)|
-| Week 11-13| Fixing the security issue and Final report |
+| Week 11-13| Fixing the security issue and Final report | [Final Demo and Presentation](assignment/final-project-demo-assignment.md) |
+
 
 ### Project/Assignment Grading
 
-Final Grade = Average from (Pass/Fail) Assignment x Normalized Factor
+Final Grade = (60% x Grading 1) + (40% x Grading 2)
 
-- Pass = 100, Failed = 10
-- Normalized factor = TBD (peer review, team performance, number of commits/LOC,...)
+#### Grading 1 (Project and Team Satisfaction)
+
+- It is taken based on the mid-term survey
+- It is used "modified" version of [Net Promoter Score (NPS)](https://en.wikipedia.org/wiki/Net_Promoter)
+
+**NOTE** : All Assignment will be given "pass" result, so it will not affect the final grading
+
+#### Grading 2 (Project and Group Peer-Review)
+
+- It is taken based on the final-term survey 
+- It will be done during final presentation on **April 15th 2021**
+- Every member of the group will give mark for other groups
+
 
 ### Project Topics
 - CTF Platform with centralized/federated authentication (Team-A) 
