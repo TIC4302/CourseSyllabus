@@ -25,7 +25,7 @@ The documentation should include:
 
 ### Submission
 
-It will be submitted/shown during our last class at **April 15th** for all the 
+It will be submitted/shown during our last class at **April 22nd** for all the 
 teams/groups.
 
 ### Grading
@@ -35,3 +35,13 @@ demonstration and presentation through **Luminus Survey** (Link TBD).
 
 **Please make sure everybody can attend the class and give the mark for other 
 groups.**
+
+### Example of Documentation and Demo
+
+Please check this repository for detail on how to write documentation and
+publishing recorded video demonstration.
+
+[OctoBot-Project](https://github.com/nus-ncl/OctoBot)
+
+It may not the best way but it cover all the information to learn, understand, 
+try, deploy or develop for the users by themselves.

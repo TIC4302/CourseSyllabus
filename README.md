@@ -45,7 +45,7 @@ Project and Assignment – 100
 | [Using tools to trade the secure application-related activities](material/Week-11-State-of-DevSecOps.pdf) |   |
 | [Embedding security as part of CI/CD pipeline](material/Week-12-SAST-DAST-IAST-RASP.pdf) |   |
 | [SAST, DAST, IAST and RASP Techniques in CI/CD pipeline](material/Week-12-SAST-DAST-IAST-RASP.pdf) |   |
-| Securing open-source component (library and dependency) |   |
+| [Security Chaos Engineering](material/Week-13-Security-Chaos-Engineering.pdf) |   |
 
 ## Project Assignment
 
@@ -74,7 +74,7 @@ Final Grade = (60% x Grading 1) + (40% x Grading 2)
 #### Grading 2 (Project and Group Peer-Review)
 
 - It is taken based on the final-term survey 
-- It will be done during final presentation on **April 15th 2021**
+- It will be done during final presentation on **April 22nd 2021**
 - Every member of the group will give mark for other groups
 
 
