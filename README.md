@@ -46,6 +46,8 @@ Project and Assignment – 100
 | [Embedding security as part of CI/CD pipeline](material/Week-12-SAST-DAST-IAST-RASP.pdf) |   |
 | [SAST, DAST, IAST and RASP Techniques in CI/CD pipeline](material/Week-12-SAST-DAST-IAST-RASP.pdf) |   |
 | [Security Chaos Engineering](material/Week-13-Security-Chaos-Engineering.pdf) |   |
+| **Extra: Final Presentation and Demonstration (Week 14)** |   |
+| [Presentation and Demonstration Summary]() |   |
 
 ## Project Assignment
 
@@ -57,7 +59,7 @@ Project and Assignment – 100
 | Week 3-4  | Planning and task definition/assignment | [Project Design Documentation](assignment/project-design-assignment.md) </br> [Feature-to-Issue](assignment/feature-to-issue-assignment.md) | 
 | Week 5-7  | Development phase and demo | [Testing Plan](assignment/testing-plan-assignment.md) </br> [Project Development Progress](assignment/project-development-assignment.md) |
 | Week 8-10 | Security Testing and Analysis | [Code Security Review](assignment/code-security-review-assignment.md) </br> [Project Security Assessment](assignment/project-security-assessment-assignment.md) </br> [Security-to-Issue](assignment/security-assessment-to-issue-assignment.md)|
-| Week 11-13| Fixing the security issue and Final report | [Final Demo and Presentation](assignment/final-project-demo-assignment.md) |
+| Week 11-14| Fixing the security issue and Final report | [Final Demo and Presentation](assignment/final-project-demo-assignment.md) |
 
 
 ### Project/Assignment Grading
@@ -73,8 +75,8 @@ Final Grade = (60% x Grading 1) + (40% x Grading 2)
 
 #### Grading 2 (Project and Group Peer-Review)
 
-- It is taken based on the final-term survey 
-- It will be done during final presentation on **April 22nd 2021**
+- It is taken based on the final-term survey using [Luminus system](https://luminus.nus.edu.sg)
+- It will be done during final presentation and demonstration on **April 22nd 2021**
 - Every member of the group will give mark for other groups
 
 

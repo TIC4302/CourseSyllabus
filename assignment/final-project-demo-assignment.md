@@ -30,11 +30,22 @@ teams/groups.
 
 ### Grading
 
+#### Grading Mechanism
+
 It will be graded by other groups and lecturer "on the spot" during 
-demonstration and presentation through **Luminus Survey** (Link TBD).
+demonstration and presentation through [**Luminus Survey**](https://luminus.nus.edu.sg/modules/a24c71d9-3e0b-4436-8ba0-73e7cd14e455/survey/6aed8407-2d69-4619-ad38-de50be755671/).
 
 **Please make sure everybody can attend the class and give the mark for other 
-groups.**
+groups. There will be a special task if you miss the final class for a
+reasonable reasons**
+
+#### Grading Criteria
+
+- Overall Documentation
+- Overall Presentation
+- Functionality Demonstration (Working/Not)
+- Security Analysis
+- Security Fix or Update
 
 ### Example of Documentation and Demo
 
